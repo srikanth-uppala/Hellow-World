@@ -3,5 +3,5 @@ Hellow world project
 
 Hi,
 
-Thia is Srikanth Uppala.
+This is Srikanth Uppala.
 
